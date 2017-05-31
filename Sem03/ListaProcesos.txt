@@ -1,0 +1,22 @@
+LISTA DE PROCESOS
+
+1.- Registrar clientes
+    Los clientes son estudiantes 
+	que reciben formación academica.
+	También pueden ser externos, basicamente
+	alquilan espacios fisicos.
+	
+1.1. Registrar estudiantes
+     Provienen de un examen de admision.
+	 
+1.2. Registrar clientes externos
+     Por solicitud del interesado.
+
+2.- Matricula
+2.1. Programar el ciclo
+
+
+
+2.- Pagos diversos
+
+

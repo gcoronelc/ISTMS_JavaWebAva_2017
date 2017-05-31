@@ -1,0 +1,6 @@
+CALCULAR PROMEDIO DE UN ESTUDIANTE
+
+- 4 Practicas de laboratorio
+- Examen Parcial
+- Examen Final
+
